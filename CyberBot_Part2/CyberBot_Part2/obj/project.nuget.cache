@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pj3cmPPHEDQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\CyberBot_Part2\\CyberBot_Part2\\CyberBot_Part2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\system.windows.extensions\\10.0.8\\system.windows.extensions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
